@@ -12,3 +12,4 @@ An Android app that helps users calculate their total dividend earnings from uni
 - 🔁 Navigation to an About screen with project details
 - 💡 Input validation with helpful error messages
 
+# Screenshots Interfaces 
