@@ -15,5 +15,4 @@ An Android app that helps users calculate their total dividend earnings from uni
 # Screenshots Interfaces 
 | Main Screen | About Screen |
 |-------------|--------------|
-| ![Main]<img src="screenshot/ssmain.png" width="300"> | ![About](<img src="screenshot/ssabout.png" width="300">|
-| ![Input](screenshot/ssinput.png)|
+
