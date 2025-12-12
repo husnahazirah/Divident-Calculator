@@ -13,15 +13,17 @@ An Android app that helps users calculate their total dividend earnings from uni
 - 💡 Input validation with helpful error messages
 
 # Screenshots Interfaces 
-Divident Calculator Page 
-<img width="502" height="1005" alt="image" src="https://github.com/user-attachments/assets/53ed3ea8-17a9-4ac9-b24d-7658d7109e8e" />
+Divident Calculator Page <br>
+<img width="502" height="1005" alt="image" src="https://github.com/user-attachments/assets/53ed3ea8-17a9-4ac9-b24d-7658d7109e8e" /><br>
 
-Input 
-<img width="483" height="848" alt="image" src="https://github.com/user-attachments/assets/0bbdc63d-56f6-4d54-84ad-2d47ca8eba97" />
+Input <br>
+<img width="483" height="848" alt="image" src="https://github.com/user-attachments/assets/0bbdc63d-56f6-4d54-84ad-2d47ca8eba97" /><br>
 
 About Page
-<img width="499" height="1018" alt="image" src="https://github.com/user-attachments/assets/a6450473-17ad-4539-aa73-6001fad7ee43" />
+<img width="499" height="1018" alt="image" src="https://github.com/user-attachments/assets/a6450473-17ad-4539-aa73-6001fad7ee43" /><br>
 
+# Repository
+https://github.com/husnahazirah/Divident-Calculator
 
 
 
