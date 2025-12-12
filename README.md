@@ -17,7 +17,7 @@ Divident Calculator Page <br>
 <img width="502" height="1005" alt="image" src="https://github.com/user-attachments/assets/53ed3ea8-17a9-4ac9-b24d-7658d7109e8e" /><br>
 
 Input <br>
-<img width="483" height="848" alt="image" src="https://github.com/user-attachments/assets/0bbdc63d-56f6-4d54-84ad-2d47ca8eba97" /><br>
+<img width="402" height="807" alt="image" src="https://github.com/user-attachments/assets/37ff7649-aa01-48c1-b1c2-42e96ec89ade" /><br>
 
 About Page <br>
 <img width="499" height="1018" alt="image" src="https://github.com/user-attachments/assets/a6450473-17ad-4539-aa73-6001fad7ee43" /><br>
