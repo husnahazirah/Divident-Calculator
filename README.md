@@ -19,7 +19,7 @@ Divident Calculator Page <br>
 Input <br>
 <img width="483" height="848" alt="image" src="https://github.com/user-attachments/assets/0bbdc63d-56f6-4d54-84ad-2d47ca8eba97" /><br>
 
-About Page
+About Page <br>
 <img width="499" height="1018" alt="image" src="https://github.com/user-attachments/assets/a6450473-17ad-4539-aa73-6001fad7ee43" /><br>
 
 # Repository
